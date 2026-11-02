@@ -1,0 +1,5 @@
+BharatCode Build League 2026 Submission
+Project: BharatTrace
+Author: Thanuj Kumar Maligi (GitHub: @ThanujMaligi)
+Category: Coding & Developer Tools
+Model: BharatCode Qwen-Coder-27B
