@@ -19,7 +19,7 @@ console = Console()
 
 BHARATCODE_API_KEY = os.getenv("BHARATCODE_API_KEY", "")
 BHARATCODE_API_URL = os.getenv(
-    "BHARATCODE_API_URL", "https://api.bharatcode.ai/v1/chat/completions"
+    "BHARATCODE_API_URL", "https://bharatcode.ai/api/model/v1/chat/completions"
 )
 
 SYSTEM_PROMPT = """You are BharatTrace, an intelligent terminal debugging agent powered by BharatCode.
